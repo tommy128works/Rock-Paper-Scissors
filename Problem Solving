@@ -1,0 +1,19 @@
+Brainstorming - Rock Paper Scissors
+
+
+Play rock paper scissors with the computer.
+The player chooses an option.
+The computer chooses an option.
+The game is decided using the following criteria:
+	rock beats scissors
+	paper beats rock
+	scissors beats paper
+	same option = tie
+	
+Pseudocode
+
+Prompt player input
+Function to randomly generate computer option
+Function to determine outcome(input1, input2)
+Console.log() the outcome
+
